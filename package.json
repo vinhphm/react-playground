@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "babel-plugin-react-compiler": "^0.0.0-experimental-938cd9a-20240601",
+    "eslint-plugin-react-compiler": "^0.0.0-experimental-51a85ea-20240601",
     "react": "19.0.0-rc-107a2f8c3e-20240617",
     "react-dom": "19.0.0-rc-107a2f8c3e-20240617"
   },
